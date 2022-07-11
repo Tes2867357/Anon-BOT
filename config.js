@@ -60,12 +60,12 @@ global.dikit = "dikit lagi, semangat ya :')"
 global.multiplier = 100 // The higher, The harder levelup
 
 // Sticker WM
-global.packname = BOT-BETA-MD
-global.author = BOT-BETA-MD
+global.packname = data.namabot
+global.author = data.owner
 
 //=========== Requirements ==========//  
 global.colong1 = 'BOT BETA'
-global.colong2 = 'BOT MD
+global.colong2 = 'BOT MD'
 global.img = pickRandom(waifu)
 global.fla = pickRandom(flaaa)
 

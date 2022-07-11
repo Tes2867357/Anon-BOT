@@ -45,13 +45,13 @@ global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/balhisyhrl"
+global.urlnya = "gak ada"
 global.gcbot = 'ɢʀᴏᴜᴩ ʙᴏᴛ'
-global.gcurl = "https://chat.whatsapp.com/DIN194DOTYoKckC3F4Y5Vu"
+global.gcurl = "belum buat maaf"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 8156299020'
+global.phn = '+62 81238772258'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
@@ -60,12 +60,12 @@ global.dikit = "dikit lagi, semangat ya :')"
 global.multiplier = 100 // The higher, The harder levelup
 
 // Sticker WM
-global.packname = data.namabot
-global.author = data.owner
+global.packname = BOT-BETA-MD
+global.author = BOT-BETA-MD
 
 //=========== Requirements ==========//  
-global.colong1 = 'Anon'
-global.colong2 = 'Anon'
+global.colong1 = 'BOT BETA'
+global.colong2 = 'BOT MD
 global.img = pickRandom(waifu)
 global.fla = pickRandom(flaaa)
 

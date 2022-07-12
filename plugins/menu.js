@@ -18,8 +18,8 @@ const defaultMenu = {
 ├ Waktu (WITA) : %WITA
 ├ Waktu (WIT) : %WIT
 ├ Github:
-│ %github
-├ *%npmname V.%version*
+│ tanya owner
+├ 
 └────
 
 〔 Random Ayat 〕

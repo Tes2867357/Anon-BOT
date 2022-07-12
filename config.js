@@ -51,7 +51,7 @@ global.gcurl = "belum buat maaf"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 81238772258'
+global.phn = '+62 812-3877-2258'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
